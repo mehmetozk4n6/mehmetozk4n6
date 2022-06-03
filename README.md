@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Commite**
 
-- 🌱 I’m currently learning **Node.js and Golang**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **react**
 
