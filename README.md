@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetozk4n6" alt="mehmetozk4n6" /></a> </p>
 
-- 🔭 I’m currently working on **Commite**
+- 🔭 I’m currently working on <a href="https://www.beinconnect.com.tr/hosgeldiniz"  target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" alt="logo" width="100"/></a>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **react**
 
