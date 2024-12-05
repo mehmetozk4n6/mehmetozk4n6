@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on <a href="https://www.beinconnect.com.tr/hosgeldiniz"  target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" alt="logo" width="100"/></a>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **mehmetozk4n6@gmail.com**
 
